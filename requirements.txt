@@ -1,1 +1,5 @@
 empiricaldist
+pandas
+scipy
+ipykernel
+matplotlib
